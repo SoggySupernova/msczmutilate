@@ -3,6 +3,5 @@ This program modifies a few XML values in a .mscz file to bypass the "This file 
 ## Usage
 ```
 msczultimate <inputpath> <optionaloutputpath>
-
 ```
-If an output path is not provided, it will use <inputfilename>_mutilated.mscz.
+If an output path is not provided, it will use \<inputfilename\>_mutilated.mscz.
